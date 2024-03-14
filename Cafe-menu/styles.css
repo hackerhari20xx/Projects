@@ -1,9 +1,18 @@
 body {
     background-image: url(beans.jpg);
 }
+
 h1, p, h2 {
     text-align:center;
 }
+
 body {
     background-color: burlywood;
+}
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
 }
