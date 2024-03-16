@@ -3,6 +3,10 @@ body {
     font-family: sans-serif;
 }
 
+.established {
+    font-style: italic;
+}
+
 h1, p, h2 {
     text-align:center;
 }
