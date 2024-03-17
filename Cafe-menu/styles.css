@@ -10,6 +10,7 @@ body {
 hr {
     height: 3px;
     background-color: brown;
+    border-color: brown;
 }
 h1, p, h2 {
     text-align:center;
