@@ -18,6 +18,8 @@ h1, p, h2 {
 
 body {
     background-color: burlywood;
+    font-family: sans-serif;
+    padding: 20px;
 }
 
 .menu {
